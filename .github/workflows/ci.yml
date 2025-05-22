@@ -1,5 +1,5 @@
-name: CI (Build & Lint)
-# just a test change
+name: CI (Build)
+
 on:
     push:
         branches:
